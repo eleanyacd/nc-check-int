@@ -6,11 +6,14 @@ capable of providing a baseline for loan default probability itself.
 
 == Files
 
- - addcheck.rb
+ - nc-check.rb
+ - nc-check.test.rb
 
 == Notes
 
 * loan principle is actually principle + interest?
+* the test cases have been moved from below the file to the 
+corresponding .test.rb file
 
 == Outstanding Issues
 
